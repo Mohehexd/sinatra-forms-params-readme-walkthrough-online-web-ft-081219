@@ -11,5 +11,4 @@ class App < Sinatra::Base
     <p>Your Favorite Food: <input type="text"></p>
     <input type="submit">
   </form>
-  end 
 end
